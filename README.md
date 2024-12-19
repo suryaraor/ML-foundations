@@ -6,6 +6,24 @@ There are eight subjects in the curriculum, organized into four subject areas. S
 
 * **Linear Algebra**
    * 1: [Intro to Linear Algebra](https://github.com/suryaraor/ML-foundations/blob/master/notebooks/1-intro-to-linear-algebra.ipynb)
+
+# Linear Algebra for Machine Learning - Playlist
+
+| **Title**                                                                                   | **Link**                                                                 | **Description**                                                                                     |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **1. Machine Learning Foundations: Welcome to the Journey**                                 | [Watch Video](https://www.youtube.com/watch?v=Qc19jQWHdL0)               | An introduction to the Machine Learning Foundations series, outlining the topics to be covered.    |
+| **2. What Linear Algebra Is — Topic 1 of Machine Learning Foundations**                     | [Watch Video](https://www.youtube.com/watch?v=KiKMqNFlo7Y)               | A detailed explanation of linear algebra and its significance in machine learning.                 |
+| **3. Vectors: What Even Are They? — Topic 2 of Machine Learning Foundations**               | [Watch Video](https://www.youtube.com/watch?v=3Y1ZppyPWow)               | Understanding vectors, their properties, and their applications in data science.                   |
+| **4. Linear Combinations, Span, and Basis Vectors — Topic 3 of Machine Learning Foundations**| [Watch Video](https://www.youtube.com/watch?v=4v4YKeq5O8Q)               | Exploring linear combinations, the concept of span, and basis vectors in vector spaces.            |
+| **5. Linear Dependence and Independence — Topic 4 of Machine Learning Foundations**         | [Watch Video](https://www.youtube.com/watch?v=Kk2mmDdpFX8)               | Differentiating between linearly dependent and independent vectors and their importance.            |
+| **6. Linear Transformations and Matrices — Topic 5 of Machine Learning Foundations**        | [Watch Video](https://www.youtube.com/watch?v=ZK3O402wf1c)               | Introduction to linear transformations and how matrices are used to represent them.                |
+| **7. Matrix Multiplication as Composition — Topic 6 of Machine Learning Foundations**       | [Watch Video](https://www.youtube.com/watch?v=XkY2DOUCWMU)               | Understanding matrix multiplication through the lens of function composition.                      |
+| **8. Matrix Inverses and Their Properties — Topic 7 of Machine Learning Foundations**       | [Watch Video](https://www.youtube.com/watch?v=FX4C-JpTFgY)               | Discussing matrix inverses, their computation, and significance in solving linear equations.        |
+| **9. The Determinant — Topic 8 of Machine Learning Foundations**                            | [Watch Video](https://www.youtube.com/watch?v=Ip3X9LOh2dk)               | Exploring the determinant of a matrix and its geometric interpretation.                            |
+| **10. Eigenvectors and Eigenvalues — Topic 9 of Machine Learning Foundations**              | [Watch Video](https://www.youtube.com/watch?v=glaiPYtytxw)               | Introduction to eigenvectors and eigenvalues and their role in linear transformations.             |
+
+
+
    * 2: [Linear Algebra II: Matrix Operations](https://github.com/suryaraor/ML-foundations/blob/master/notebooks/2-linear-algebra-ii.ipynb)
 * **Calculus**
    * 3: [Calculus I: Limits & Derivatives](https://github.com/suryaraor/ML-foundations/blob/master/notebooks/3-calculus-i.ipynb)
